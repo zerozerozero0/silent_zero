@@ -1,1 +1,1 @@
-input("MAIN")
+input("THIS IS THE MAIN SCRIPT FROM GITHUB!!")
